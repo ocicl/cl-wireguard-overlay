@@ -1,0 +1,9 @@
+* cl-wireguard-overlay
+
+Deterministic topology and adaptive path planning for WireGuard overlays in Common Lisp.
+
+|---------+--------------------------------------------------------+
+| source  | git:https://github.com/atgreen/cl-wireguard-overlay.git |
+| commit  | 0000000                                                |
+| systems | cl-wireguard-overlay                                   |
+|---------+--------------------------------------------------------+
