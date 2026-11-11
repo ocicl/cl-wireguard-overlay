@@ -4,6 +4,6 @@ Deterministic topology and adaptive path planning for WireGuard overlays in Comm
 
 |---------+--------------------------------------------------------+
 | source  | git:https://github.com/atgreen/cl-wireguard-overlay.git |
-| commit  | 0000000                                                |
+| commit  | 10a3ce8                                                |
 | systems | cl-wireguard-overlay                                   |
 |---------+--------------------------------------------------------+
